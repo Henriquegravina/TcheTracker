@@ -9,3 +9,6 @@ To compile this code you will need:
 
 1. LibAPRS[https://github.com/markqvist/LibAPRS]
 2. TinyGPSPlus[https://github.com/mikalhart/TinyGPSPlus]
+
+By default this code use the only one serial port on ATmega328 to comunicate with GPS and to configure the device. So to put he device in config mode you will need to put a jumper in Digital IO 11 to VCC.
+
