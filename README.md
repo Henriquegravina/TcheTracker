@@ -13,6 +13,7 @@ To compile this code you will need:
 By default this code use the only one serial port on ATmega328 to comunicate with GPS and to configure the device. 
 
 1 - to put he device in config mode you will need to put a jumper in Digital IO 11 to VCC;
+
 2 - to enter in trasnmit mode you ne to put a jumper from Digital IO 11 to GND;
 
 to use it without a gps module, you have to set SPEED1, SPEED2 and SPEED3 to 0;
