@@ -18,3 +18,5 @@ By default this code use the only one serial port on ATmega328 to comunicate wit
 
 to use it without a gps module, you have to set SPEED1, SPEED2 and SPEED3 to 0;
 
+3 - You need to use a gps with GPS sentences with: $GPRMC. Only Glonass senteces will no work.
+
