@@ -17,7 +17,7 @@ To compile this code you will need:
 
 **to use it without a gps module, you have to set SPEED1, SPEED2 and SPEED3 to 0;**
 
-3 - You need to use a gps with GPS sentences with: $GPRMC. Only Glonass senteces will no work.
+3 - You need to use a gps with GPS sentences with: $GPRMC. Only Glonass senteces will not work.
 
 4 - This traker is base on LibAPRS: https://unsigned.io/projects/libaprs/ / https://github.com/markqvist/LibAPRS in this link you could get more info about hardware.
 
